@@ -1,0 +1,33 @@
+/*
+Set the background color of the header to a bright red shade,
+set the text color to white, center the text, and add a padding of 30 pixels.
+*/
+header {
+    background-color: rgb(255, 83, 83);
+    color: white;
+    text-align: center;
+    padding: 30px;
+    }
+    
+    /*
+    Set the font size of the h1 element inside the header to 18 pixels.
+    */
+    header h1 {
+    font-size: 18px;
+    }
+    
+    /*
+    Set the background color of elements with the class 'identity'
+    to a shade of blue, and the text color to white.
+    */
+    .identity {
+    background-color: rgb(56, 125, 253);
+    color: white;
+    }
+    
+    /*
+    Add a margin of 15 pixels to all elements with the class 'col'.
+    */
+    .col {
+    margin: 15px;
+    }
